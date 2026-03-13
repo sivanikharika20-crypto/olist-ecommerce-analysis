@@ -1,52 +1,46 @@
-\# Olist Ecommerce Analysis
+## Olist Ecommerce Analysis
 
 
 
-\## Project Overview
+## Project Overview
 
 This project analyzes the Brazilian Olist e-commerce dataset to understand sales trends, customer behavior, delivery performance, and seller contributions.
 
 
+## Tools \& Libraries
 
-\## Tools \& Libraries
+- Python
 
-\- Python
+- Pandas
 
-\- Pandas
+- NumPy
 
-\- NumPy
+- Matplotlib
 
-\- Matplotlib
+- Seaborn
 
-\- Seaborn
+## Project Workflow
 
+1. Data Loading
 
+2. Data Understanding
 
-\## Project Workflow
+3. Data Cleaning
 
-1\. Data Loading
+4. Feature Engineering
 
-2\. Data Understanding
+5. Data Merging
 
-3\. Data Cleaning
+6. Exploratory Data Analysis (EDA)
 
-4\. Feature Engineering
+7. Advanced Analysis
 
-5\. Data Merging
+8. Business Insights
 
-6\. Exploratory Data Analysis (EDA)
-
-7\. Advanced Analysis
-
-8\. Business Insights
-
-9\. Conclusion
+9. Conclusion
 
 
-
-
-
-\## Key Insights
+## Key Insights
 
 \- Orders show seasonal patterns across months.
 
@@ -59,14 +53,13 @@ This project analyzes the Brazilian Olist e-commerce dataset to understand sales
 \- Certain cities contribute significantly to total sales.
 
 
-
-\## Dataset
+## Dataset
 
 Olist Brazilian E-Commerce Public Dataset from Kaggle.
 
 
 
-\## Author
+## Author
 
 Sivanikharika R
 
